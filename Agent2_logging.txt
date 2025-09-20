@@ -1,0 +1,9 @@
+Your conversation log:
+Human: hi good moring 
+AI: Good morning! How can I assist you today?
+Human: tell me a joke
+AI: Why don't skeletons fight each other?
+
+They don't have the guts!
+
+End of conversation
